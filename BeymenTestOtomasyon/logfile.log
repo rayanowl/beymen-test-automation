@@ -1,0 +1,129 @@
+2021-12-31 20:20:19,054 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 20:20:19,314 INFO  [Log] searchPantolon() PASSED 
+2021-12-31 20:20:20,890 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 20:20:21,150 INFO  [Log] showMoreContent() PASSED 
+2021-12-31 20:20:22,788 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 20:20:33,173 INFO  [Log] addTocart() PASSED 
+2021-12-31 20:20:34,765 INFO  [Log] comparePrice() PASSED 
+2021-12-31 20:20:34,916 INFO  [Log] increaseProductNumber() PASSED 
+2021-12-31 20:20:34,983 INFO  [Log] deleteProduct() PASSED 
+2021-12-31 20:21:23,764 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 20:21:23,996 INFO  [Log] searchPantolon() PASSED 
+2021-12-31 20:21:25,185 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 20:21:25,462 INFO  [Log] showMoreContent() PASSED 
+2021-12-31 20:21:27,175 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 20:21:37,491 INFO  [Log] addTocart() PASSED 
+2021-12-31 20:21:39,767 INFO  [Log] comparePrice() PASSED 
+2021-12-31 20:21:39,893 INFO  [Log] increaseProductNumber() PASSED 
+2021-12-31 20:21:39,959 INFO  [Log] deleteProduct() PASSED 
+2021-12-31 21:12:52,324 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 21:12:52,542 INFO  [Log] searchPantolon() PASSED 
+2021-12-31 21:12:53,869 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 21:12:54,121 INFO  [Log] showMoreContent() PASSED 
+2021-12-31 21:12:55,647 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 21:12:56,023 INFO  [Log] addTocart() PASSED 
+2021-12-31 21:12:57,779 INFO  [Log] comparePrice() PASSED 
+2021-12-31 21:12:57,910 INFO  [Log] increaseProductNumber() PASSED 
+2021-12-31 21:12:57,992 INFO  [Log] deleteProduct() PASSED 
+2021-12-31 21:16:50,090 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 21:16:50,331 INFO  [Log] searchPantolon() PASSED 
+2021-12-31 21:16:52,032 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 21:16:52,260 INFO  [Log] showMoreContent() PASSED 
+2021-12-31 21:16:53,790 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 21:17:04,190 INFO  [Log] addTocart() PASSED 
+2021-12-31 21:17:05,524 INFO  [Log] comparePrice() PASSED 
+2021-12-31 21:17:05,704 INFO  [Log] increaseProductNumber() PASSED 
+2021-12-31 21:17:05,779 INFO  [Log] deleteProduct() PASSED 
+2021-12-31 21:17:23,398 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 21:17:23,638 INFO  [Log] searchPantolon() PASSED 
+2021-12-31 21:17:25,464 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 21:17:25,725 INFO  [Log] showMoreContent() PASSED 
+2021-12-31 21:17:27,414 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 21:17:37,771 ERROR [Log] addTocart() FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-BHQNLJ8D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0881adb9efac7fd80b303b839ed1ff78, clickElement {id=6f86179e-eddb-4930-872b-0213cdaca99b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\ah_su\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63540}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63540/devtoo..., se:cdpVersion: 96.0.4664.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0881adb9efac7fd80b303b839ed1ff78)] -> xpath: //*[@id="sizes"]/div/span[@class='m-variation__item']]
+Session ID: 0881adb9efac7fd80b303b839ed1ff78 
+2021-12-31 21:18:11,942 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 21:18:12,202 ERROR [Log] searchPantolon() FAILED with cause : unknown error: unhandled inspector error: {"code":-32000,"message":"Inspected target navigated or closed"}
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-BHQNLJ8D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ba997f70e48c6f70847b330809055d4, sendKeysToElement {id=ef79155b-ffd7-443a-b429-6104dcd66543, value=[Ljava.lang.CharSequence;@4acc5dff}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\ah_su\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63755}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63755/devtoo..., se:cdpVersion: 96.0.4664.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (1ba997f70e48c6f70847b330809055d4)] -> xpath: /html/body/header/div/div/div[2]/div/div/div/input[@class='default-input o-header__search--input']]
+Session ID: 1ba997f70e48c6f70847b330809055d4 
+2021-12-31 21:18:12,384 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 21:18:22,537 ERROR [Log] showMoreContent() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[5]/div/div[1]/div[3]/div/div/button"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-BHQNLJ8D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ba997f70e48c6f70847b330809055d4, findElement {using=xpath, value=/html/body/div[5]/div/div[1]/div[3]/div/div/button}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\ah_su\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63755}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63755/devtoo..., se:cdpVersion: 96.0.4664.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ba997f70e48c6f70847b330809055d4 
+2021-12-31 21:18:26,128 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 21:18:36,291 ERROR [Log] addTocart() FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-BHQNLJ8D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ba997f70e48c6f70847b330809055d4, clickElement {id=26cf6a0b-6be8-4ae2-be82-0af6f24c6c74}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\ah_su\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63755}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63755/devtoo..., se:cdpVersion: 96.0.4664.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (1ba997f70e48c6f70847b330809055d4)] -> xpath: //*[@id="sizes"]/div/span[@class='m-variation__item']]
+Session ID: 1ba997f70e48c6f70847b330809055d4 
+2021-12-31 21:18:38,198 ERROR [Log] comparePrice() FAILED with cause : expected: <null> but was: <679,00 TL> 
+2021-12-31 21:18:38,330 INFO  [Log] increaseProductNumber() PASSED 
+2021-12-31 21:18:38,424 INFO  [Log] deleteProduct() PASSED 
+2021-12-31 21:26:26,499 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 21:26:26,787 INFO  [Log] searchPantolon() PASSED 
+2021-12-31 21:26:28,443 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 21:26:28,707 INFO  [Log] showMoreContent() PASSED 
+2021-12-31 21:26:30,469 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 21:26:30,857 INFO  [Log] addTocart() PASSED 
+2021-12-31 21:26:32,136 INFO  [Log] comparePrice() PASSED 
+2021-12-31 21:26:32,294 INFO  [Log] increaseProductNumber() PASSED 
+2021-12-31 21:26:32,376 INFO  [Log] deleteProduct() PASSED 
+2021-12-31 21:26:46,815 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 21:26:47,025 INFO  [Log] searchPantolon() PASSED 
+2021-12-31 21:26:48,207 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 21:26:58,374 ERROR [Log] showMoreContent() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[5]/div/div[1]/div[3]/div/div/button"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-BHQNLJ8D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [712ead7370493a8a0f25abd5a11faefd, findElement {using=xpath, value=/html/body/div[5]/div/div[1]/div[3]/div/div/button}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\ah_su\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64172}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64172/devtoo..., se:cdpVersion: 96.0.4664.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 712ead7370493a8a0f25abd5a11faefd 
+2021-12-31 21:27:02,838 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 21:27:13,281 ERROR [Log] addTocart() FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-BHQNLJ8D', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [712ead7370493a8a0f25abd5a11faefd, clickElement {id=2f44958a-4c22-471b-bb66-62db212fc304}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\ah_su\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64172}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64172/devtoo..., se:cdpVersion: 96.0.4664.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (712ead7370493a8a0f25abd5a11faefd)] -> xpath: //*[@id="sizes"]/div/span[@class='m-variation__item']]
+Session ID: 712ead7370493a8a0f25abd5a11faefd 
+2021-12-31 21:27:23,170 ERROR [Log] comparePrice() FAILED with cause : expected: <null> but was: <729,00 TL> 
+2021-12-31 21:27:23,300 INFO  [Log] increaseProductNumber() PASSED 
+2021-12-31 21:27:23,381 INFO  [Log] deleteProduct() PASSED 
+2021-12-31 21:27:37,342 INFO  [Log] homePageCheck() PASSED 
+2021-12-31 21:27:37,551 INFO  [Log] searchPantolon() PASSED 
+2021-12-31 21:27:38,800 INFO  [Log] scrollPageDown() PASSED 
+2021-12-31 21:27:39,019 INFO  [Log] showMoreContent() PASSED 
+2021-12-31 21:27:40,648 INFO  [Log] selectRandomProduct() PASSED 
+2021-12-31 21:27:41,073 INFO  [Log] addTocart() PASSED 
+2021-12-31 21:27:42,562 INFO  [Log] comparePrice() PASSED 
+2021-12-31 21:27:42,704 INFO  [Log] increaseProductNumber() PASSED 
+2021-12-31 21:27:42,781 INFO  [Log] deleteProduct() PASSED 
