@@ -1,7 +1,7 @@
-# Beymen Test Otomasyonu
+# Beymen Test Automation
 
 
-*Selenium ile Web Otomasyonu*
+*Web Automation with Selenium*
 
 1- https://www.beymen.com/ sitesi açılır.
 
