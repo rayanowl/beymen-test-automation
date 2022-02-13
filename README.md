@@ -3,22 +3,22 @@
 
 *Web Automation with Selenium*
 
-1- https://www.beymen.com/ sitesi açılır.
+1- https://www.beymen.com/ website is opened.
 
-2- Ana sayfanın açıldığı kontrol edilir. Sitede hesabım, favorilerim, sepetim, alanları kontrol edilir.
+2- Check that the main page is opened. On the site, my account, favorites, cart, areas are checked.
 
-3- Arama kutucuğuna “pantolon” kelimesi girilir. Enter tuşu ile arama yaptırılır.
+3- Enter the word “trousers” in the search box. Search is made with the enter key.
 
-4- Sayfanın sonuna scroll edilir.
+4- It is scrolled to the end of the page.
 
-5- “Daha fazla göster “ butonuna tıklanır.
+5- Click the “Show more” button.
 
-6- Sonuca göre sergilenen ürünlerden rastgele bir ürün seçilir.
+6- A random product is selected from the exhibited products according to the result.
 
-7- Seçilen ürün sepete eklenir.
+7- The selected product is added to the cart.
 
-8- Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.
+8- The accuracy of the price on the product page and the price of the product in the basket is compared.
 
-9- Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
+9- By increasing the number of products, it is verified that the number of products is 2.
 
-10- Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
+10- The product is deleted from the basket and it is checked that the basket is empty.
